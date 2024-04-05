@@ -1938,7 +1938,7 @@ pre code {
 .table-light,
 .table-light > th,
 .table-light > td {
-  background-color: #fdfdfe;
+  background-color: #ccbdab;
 }
 
 .table-light th,
@@ -5442,7 +5442,7 @@ a.badge-dark:focus, a.badge-dark.focus {
 .alert-light {
   color: #818182;
   background-color: #fefefe;
-  border-color: #fdfdfe;
+  border-color: #ccbdab;
 }
 
 .alert-light hr {
@@ -5857,7 +5857,7 @@ a.badge-dark:focus, a.badge-dark.focus {
 
 .list-group-item-light {
   color: #818182;
-  background-color: #fdfdfe;
+  background-color: #ccbdab;
 }
 
 .list-group-item-light.list-group-item-action:hover, .list-group-item-light.list-group-item-action:focus {
