@@ -539,7 +539,7 @@ mark,
 .img-thumbnail {
   padding: 0.25rem;
   background-color: #c3d3d6;
-  border: 1px solid #dee2e6;
+  border: 1px solid #ccbdab;
   border-radius: 0.25rem;
   max-width: 100%;
   height: auto;
@@ -1756,16 +1756,16 @@ pre code {
 .table td {
   padding: 0.75rem;
   vertical-align: top;
-  border-top: 1px solid #dee2e6;
+  border-top: 1px solid #ccbdab;
 }
 
 .table thead th {
   vertical-align: bottom;
-  border-bottom: 2px solid #dee2e6;
+  border-bottom: 2px solid #ccbdab;
 }
 
 .table tbody + tbody {
-  border-top: 2px solid #dee2e6;
+  border-top: 2px solid #ccbdab;
 }
 
 .table-sm th,
@@ -1774,12 +1774,12 @@ pre code {
 }
 
 .table-bordered {
-  border: 1px solid #dee2e6;
+  border: 1px solid #ccbdab;
 }
 
 .table-bordered th,
 .table-bordered td {
-  border: 1px solid #dee2e6;
+  border: 1px solid #ccbdab;
 }
 
 .table-bordered thead th,
@@ -2002,8 +2002,8 @@ pre code {
 
 .table .thead-light th {
   color: #495057;
-  background-color: #e9ecef;
-  border-color: #dee2e6;
+  background-color: #ccbdab;
+  border-color: #ccbdab;
 }
 
 .table-dark {
@@ -2155,7 +2155,7 @@ pre code {
 }
 
 .form-control:disabled, .form-control[readonly] {
-  background-color: #e9ecef;
+  background-color: #ccbdab;
   opacity: 1;
 }
 
@@ -2662,28 +2662,28 @@ fieldset:disabled a.btn {
 
 .btn-secondary:hover {
   color: #000000;
-  background-color: #8db397;
-  border-color: #8db397;
+  background-color: #DC9CBB;
+  border-color: #DC9CBB;
 }
 
 .btn-secondary:focus, .btn-secondary.focus {
   color: #000000;
-  background-color: #8db397;
-  border-color: #8db397;
+  background-color: #DC9CBB;
+  border-color: #DC9CBB;
   box-shadow: 0 0 0 0.2rem rgba(130, 138, 145, 0.5);
 }
 
 .btn-secondary.disabled, .btn-secondary:disabled {
   color: #000000;
-  background-color: #8db397;
-  border-color: #8db397;
+  background-color: #DC9CBB;
+  border-color: #DC9CBB;
 }
 
 .btn-secondary:not(:disabled):not(.disabled):active, .btn-secondary:not(:disabled):not(.disabled).active,
 .show > .btn-secondary.dropdown-toggle {
   color: #000000;
-  background-color: #8db397;
-  border-color: #8db397;
+  background-color: #DC9CBB;
+  border-color: #DC9CBB;
 }
 
 .btn-secondary:not(:disabled):not(.disabled):active:focus, .btn-secondary:not(:disabled):not(.disabled).active:focus,
@@ -3451,7 +3451,7 @@ input[type="button"].btn-block {
   height: 0;
   margin: 0.5rem 0;
   overflow: hidden;
-  border-top: 1px solid #e9ecef;
+  border-top: 1px solid #ccbdab;
 }
 
 .dropdown-item {
@@ -3757,7 +3757,7 @@ input[type="button"].btn-block {
   color: #495057;
   text-align: center;
   white-space: nowrap;
-  background-color: #e9ecef;
+  background-color: #ccbdab;
   border: 1px solid #ced4da;
   border-radius: 0.25rem;
 }
@@ -3873,7 +3873,7 @@ input[type="button"].btn-block {
 }
 
 .custom-control-input[disabled] ~ .custom-control-label::before, .custom-control-input:disabled ~ .custom-control-label::before {
-  background-color: #e9ecef;
+  background-color: #ccbdab;
 }
 
 .custom-control-label {
@@ -4019,7 +4019,7 @@ input[type="button"].btn-block {
 
 .custom-select:disabled {
   color: #6c757d;
-  background-color: #e9ecef;
+  background-color: #ccbdab;
 }
 
 .custom-select::-ms-expand {
@@ -4071,7 +4071,7 @@ input[type="button"].btn-block {
 
 .custom-file-input[disabled] ~ .custom-file-label,
 .custom-file-input:disabled ~ .custom-file-label {
-  background-color: #e9ecef;
+  background-color: #ccbdab;
 }
 
 .custom-file-input:lang(en) ~ .custom-file-label::after {
@@ -4110,7 +4110,7 @@ input[type="button"].btn-block {
   line-height: 1.5;
   color: #495057;
   content: "Browse";
-  background-color: #e9ecef;
+  background-color: #ccbdab;
   border-left: inherit;
   border-radius: 0 0.25rem 0.25rem 0;
 }
@@ -4174,7 +4174,7 @@ input[type="button"].btn-block {
   height: 0.5rem;
   color: transparent;
   cursor: pointer;
-  background-color: #dee2e6;
+  background-color: #ccbdab;
   border-color: transparent;
   border-radius: 1rem;
 }
@@ -4207,7 +4207,7 @@ input[type="button"].btn-block {
   height: 0.5rem;
   color: transparent;
   cursor: pointer;
-  background-color: #dee2e6;
+  background-color: #ccbdab;
   border-color: transparent;
   border-radius: 1rem;
 }
@@ -4248,13 +4248,13 @@ input[type="button"].btn-block {
 }
 
 .custom-range::-ms-fill-lower {
-  background-color: #dee2e6;
+  background-color: #ccbdab;
   border-radius: 1rem;
 }
 
 .custom-range::-ms-fill-upper {
   margin-right: 15px;
-  background-color: #dee2e6;
+  background-color: #ccbdab;
   border-radius: 1rem;
 }
 
@@ -4318,7 +4318,7 @@ input[type="button"].btn-block {
 }
 
 .nav-tabs {
-  border-bottom: 1px solid #dee2e6;
+  border-bottom: 1px solid #ccbdab;
 }
 
 .nav-tabs .nav-item {
@@ -4332,7 +4332,7 @@ input[type="button"].btn-block {
 }
 
 .nav-tabs .nav-link:hover, .nav-tabs .nav-link:focus {
-  border-color: #e9ecef #e9ecef #dee2e6;
+  border-color: #ccbdab #ccbdab #ccbdab;
 }
 
 .nav-tabs .nav-link.disabled {
@@ -4345,7 +4345,7 @@ input[type="button"].btn-block {
 .nav-tabs .nav-item.show .nav-link {
   color: #495057;
   background-color: #c3d3d6;
-  border-color: #dee2e6 #dee2e6 #fff;
+  border-color: #ccbdab #ccbdab #fff;
 }
 
 .nav-tabs .dropdown-menu {
@@ -5032,7 +5032,7 @@ input[type="button"].btn-block {
   padding: 0.75rem 1rem;
   margin-bottom: 1rem;
   list-style: none;
-  background-color: #e9ecef;
+  background-color: #ccbdab;
   border-radius: 0.25rem;
 }
 
@@ -5075,15 +5075,15 @@ input[type="button"].btn-block {
   line-height: 1.25;
   color: #007bff;
   background-color: #c3d3d6;
-  border: 1px solid #dee2e6;
+  border: 1px solid #ccbdab;
 }
 
 .page-link:hover {
   z-index: 2;
   color: #0056b3;
   text-decoration: none;
-  background-color: #e9ecef;
-  border-color: #dee2e6;
+  background-color: #ccbdab;
+  border-color: #ccbdab;
 }
 
 .page-link:focus {
@@ -5115,7 +5115,7 @@ input[type="button"].btn-block {
   pointer-events: none;
   cursor: auto;
   background-color: #c3d3d6;
-  border-color: #dee2e6;
+  border-color: #ccbdab;
 }
 
 .pagination-lg .page-link {
@@ -5311,7 +5311,7 @@ a.badge-dark:focus, a.badge-dark.focus {
 .jumbotron {
   padding: 2rem 1rem;
   margin-bottom: 2rem;
-  background-color: #e9ecef;
+  background-color: #ccbdab;
   border-radius: 0.3rem;
 }
 
@@ -5491,7 +5491,7 @@ a.badge-dark:focus, a.badge-dark.focus {
   height: 1rem;
   overflow: hidden;
   font-size: 0.75rem;
-  background-color: #e9ecef;
+  background-color: #ccbdab;
   border-radius: 0.25rem;
 }
 
@@ -5569,7 +5569,7 @@ a.badge-dark:focus, a.badge-dark.focus {
 
 .list-group-item-action:active {
   color: #212529;
-  background-color: #e9ecef;
+  background-color: #ccbdab;
 }
 
 .list-group-item {
@@ -6110,7 +6110,7 @@ a.close.disabled {
   -ms-flex-pack: justify;
   justify-content: space-between;
   padding: 1rem 1rem;
-  border-bottom: 1px solid #dee2e6;
+  border-bottom: 1px solid #ccbdab;
   border-top-left-radius: calc(0.3rem - 1px);
   border-top-right-radius: calc(0.3rem - 1px);
 }
@@ -6142,7 +6142,7 @@ a.close.disabled {
   -ms-flex-pack: end;
   justify-content: flex-end;
   padding: 0.75rem;
-  border-top: 1px solid #dee2e6;
+  border-top: 1px solid #ccbdab;
   border-bottom-right-radius: calc(0.3rem - 1px);
   border-bottom-left-radius: calc(0.3rem - 1px);
 }
@@ -6849,23 +6849,23 @@ button.bg-dark:focus {
 }
 
 .border {
-  border: 1px solid #dee2e6 !important;
+  border: 1px solid #ccbdab !important;
 }
 
 .border-top {
-  border-top: 1px solid #dee2e6 !important;
+  border-top: 1px solid #ccbdab !important;
 }
 
 .border-right {
-  border-right: 1px solid #dee2e6 !important;
+  border-right: 1px solid #ccbdab !important;
 }
 
 .border-bottom {
-  border-bottom: 1px solid #dee2e6 !important;
+  border-bottom: 1px solid #ccbdab !important;
 }
 
 .border-left {
-  border-left: 1px solid #dee2e6 !important;
+  border-left: 1px solid #ccbdab !important;
 }
 
 .border-0 {
@@ -10273,7 +10273,7 @@ a.text-dark:hover, a.text-dark:focus {
   }
   .table-bordered th,
   .table-bordered td {
-    border: 1px solid #dee2e6 !important;
+    border: 1px solid #ccbdab !important;
   }
   .table-dark {
     color: inherit;
@@ -10282,11 +10282,11 @@ a.text-dark:hover, a.text-dark:focus {
   .table-dark td,
   .table-dark thead th,
   .table-dark tbody + tbody {
-    border-color: #dee2e6;
+    border-color: #ccbdab;
   }
   .table .thead-dark th {
     color: inherit;
-    border-color: #dee2e6;
+    border-color: #ccbdab;
   }
 }
 /*# sourceMappingURL=bootstrap.css.map */
